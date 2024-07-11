@@ -1,5 +1,4 @@
-# first-project
-Online Retail Exploratory Data Analysis with Python.
+## Exploratory-Data-Analysis
 In this project, I worked with transactional data from an online retail store to uncover valuable insights into sales trends, customer behavior, and popular products. 
 The dataset contains detailed information about customer purchases, including product details, quantities, prices, and timestamps.
 By conducting exploratory data analysis (EDA), I identified patterns, outliers, and correlations within the data.
